@@ -97,5 +97,10 @@ Movie-Pro/
 
 ---
 
+## 🔮 Future Implementation
+- **Fuzzy Searching**: Implement advanced string matching (like Levenshtein distance) to handle typos and approximate titles in the local search engine.
+
+---
+
 ## 📝 License
 This project is for educational purposes. Movie data and images are provided by [TMDB](https://www.themoviedb.org/).
