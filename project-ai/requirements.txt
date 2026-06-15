@@ -1,0 +1,19 @@
+#Core Api----------------
+
+fastapi==0.111.0
+uvicorn==0.30.1
+python-dotenv==1.0.1
+httpx==0.27.0
+
+
+#Data & ML (Match Pickle)
+
+pandas==2.2.3
+numpy==2.2.5
+scipy==1.14.1
+scikit-learn==1.6.1
+
+
+#frontend 
+
+streamlit==1.36.0

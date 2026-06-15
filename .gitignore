@@ -1,0 +1,22 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Large files)
+*.pkl
+*.csv
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# OS files
+desktop.ini
+.DS_Store
